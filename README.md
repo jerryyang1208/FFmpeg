@@ -1,0 +1,2 @@
+This release contains ffmpeg-n7.0.2-3-win64-lgpl-shared-7.0, SDL2-2.30.6, an mp4 video(video coded in h.264, audio codedin aac, pixel format yuv420p) and other files, just clone the whole release to your local and open this folder with VSCODE, you can just run the "ffmpeg+SDL.cpp" directly and output that video!
+But it's a pity that this code can only output video pictures and no audio output, that's why it is only v0.1.0, l will implement more and more functions in the future releases! Thanks for watching and welcome to give me more issues andimprovements!
